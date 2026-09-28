@@ -3,7 +3,7 @@ package Cars;
 /**
 * Test class for construction of a sports car.
 * Creates a link to SportCarBuilder, passes it to CarDirector to construct car, and prints result.
-* @author Hannah Reynolds 24421712 
+* @author Hannah Reynolds 
 * @version 1.1
 * @since 22 Feb 2026
 */
