@@ -4,7 +4,7 @@ package Cars;
 * This is a builder implementation that creates a Sport car type. 
 * Each build method sets a specific component of the car; power, engine type, brakes, seats, windows, and fuel type.
 * Implements CarBuilder interface as part of the Builder Pattern 
-* @author Hannah Reynolds 24421712 
+* @author Hannah Reynolds 
 * @version 1.1
 * @since 22 Feb 2026
 */
