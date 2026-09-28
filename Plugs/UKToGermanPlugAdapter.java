@@ -3,7 +3,7 @@ package Plugs;
 
 /**
 * This class creates a UK to German plug adapter
-* @author Hannah Reynolds 24421712 
+* @author Hannah Reynolds  
 * @version 1.1
 * @since 18 Feb 2026
 */
