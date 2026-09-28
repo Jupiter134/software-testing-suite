@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
  * via dialog boxes, and performs the corresponding operations on the account.
  * 
  * It includes a main method to run an interactive/visual transaction.
-* @author Hannah Reynolds 24421712
+* @author Hannah Reynolds 
 * @version 1.0
 * @since 08 Feb 2026
 */
