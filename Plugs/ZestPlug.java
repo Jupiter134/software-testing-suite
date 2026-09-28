@@ -2,7 +2,7 @@ package Plugs;
 
 /**
 * This class implements the German Plug Connector for a German plug, ZestPlug
-* @author Hannah Reynolds 24421712 
+* @author Hannah Reynolds
 * @version 1.1
 * @since 18 Feb 2026
 */
