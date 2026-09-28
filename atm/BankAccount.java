@@ -4,7 +4,7 @@ package atm;
 * This class represents a bank account with a balance.
 * It provides constructors to create a bank account
 * and methods to deposit, withdraw, and check the balance.
-* @author Hannah Reynolds 24421712
+* @author Hannah Reynolds 
 * @version 1.0
 * @since 08 Feb 2026
 */
