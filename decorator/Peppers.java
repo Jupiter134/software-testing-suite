@@ -4,7 +4,7 @@ package decorator;
 * Decorator pattern for adding peppers to a Pizza object. 
 * Extends PizzaDecorator.
 * Modifies pizza's description and price.
-* @author Hannah Reynolds 24421712 
+* @author Hannah Reynolds 
 * @version 1.1
 * @since 05 March 2026
 */
