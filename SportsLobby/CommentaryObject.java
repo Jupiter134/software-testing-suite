@@ -50,7 +50,7 @@ public class CommentaryObject implements Subject,Commentary, Commercial
 		return subjectDetails;
 	}
 	
-	/**@author Hannah Reynolds 24421712
+	/**@author Hannah Reynolds 
 	 * Sets current commercial title and displays/plays it
 	 * Doesn't affect Observer Pattern functionality
 	 * Doesn't notify observers / only displays/plays during match
