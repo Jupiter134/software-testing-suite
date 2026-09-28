@@ -11,7 +11,7 @@ src/plugs
 --> Adapter Design Pattern.  
   Plug and Adapter classes to simulate different plugs and connections.
   
-src/cars
+src/Cars
 --> Test Builder Pattern.  
   Building and testing different types of cars with different specifications.  
 
