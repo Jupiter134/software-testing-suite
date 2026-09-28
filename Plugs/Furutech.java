@@ -2,7 +2,7 @@ package Plugs;
  
 /**
 * This class implements the UK Plug Connector for a UK plug, Furutech
-* @author Hannah Reynolds 24421712 
+* @author Hannah Reynolds 
 * @version 1.1
 * @since 18 Feb 2026
 */
