@@ -25,6 +25,6 @@ src/Prototype
 
 src/SportsLobby
 --> Observer Pattern  
-  Implements Observer pattern using a sports newspaper/forum.
+  Implements Observer pattern using a sports newsletter/SMS alert.
   
   
