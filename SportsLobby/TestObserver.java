@@ -20,7 +20,7 @@ public class TestObserver {
 		
 		System.out.println();
 		
-		/**@author Hannah Reynolds 24421712
+		/**@author Hannah Reynolds 
 		 * Publishes a commercial announcement to all registered observers
 		 */
 		Commercial comObject = ((Commercial)subject);
