@@ -7,7 +7,7 @@ src/atm
   The Bank Account class provides constructors to create a bank account and methods to deposit, withdraw, and check the balance on the account.  
   The Transaction class handles bank account transactions using a BankAccount object. It provides methods to get user input for deposits and withdrawals via dialog boxes, and performs the corresponding operations on the account.  
   
-src/plugs
+src/Plugs
 --> Adapter Design Pattern.  
   Plug and Adapter classes to simulate different plugs and connections.
   
@@ -19,8 +19,12 @@ src/decorator
 --> Decorator Pattern.  
   Creates a pizza and 'decorates' with different toppings. 
 
-src/prototype
+src/Prototype
 --> Prototype Pattern.  
-  Classes to control access and functionality for different users accessing the same system. 
+  Classes to control access and functionality for different users accessing the same system.  
+
+src/SportsLobby
+--> Observer Pattern  
+  Implements Observer pattern using a sports newspaper/forum.
   
   
